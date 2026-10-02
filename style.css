@@ -8,9 +8,7 @@ body {
     font-family: Arial, sans-serif;
     background-color: white;
 }
-
-
-/* TOPO */
+/*  */
 
 header {
     height: 100px;
@@ -86,8 +84,8 @@ main > p {
 }
 
 .card {
-    width: 140px;
-    height: 85px;
+    width: 200px;
+    height: 100   px;
 
     padding: 10px;
 
@@ -162,10 +160,7 @@ main > p {
 .atalho p {
     margin-top: 20px;
 }
-
-
-/* PÁGINA DE OS */
-
+/* */
 .lista {
     display: flex;
     gap: 20px;
@@ -189,8 +184,6 @@ main > p {
     margin-bottom: 8px;
 }
 
-
-/* SUPORTE */
 
 .suporte {
     width: 350px;
